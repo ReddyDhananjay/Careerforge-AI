@@ -206,7 +206,18 @@ Comprehensive dashboard with insights and improvement recommendations
 ---
 
 ## 🎥 Demo Video
-Coming Soon! Check back for a walkthrough video.
+
+Watch the complete walkthrough of Careerforge-AI in action:
+
+**[▶️ Watch Demo Video](https://drive.google.com/file/d/1bTq-ZbQ2cy8EB7C71B6U66WIjwEOPu-B/view?usp=sharing)**
+
+In this 2-3 minute demo, you'll see:
+- Landing page and assessment setup
+- Role-based customization
+- Real-time quiz with 17 adaptive questions
+- Instant scoring system
+- Results dashboard with Skills Radar
+- Personalized 30-day improvement roadmap
 
 ---
 
