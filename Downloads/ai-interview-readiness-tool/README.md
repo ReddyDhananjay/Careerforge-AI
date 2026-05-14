@@ -2,6 +2,8 @@
 
 An AI-powered interview preparation tool that evaluates candidates' interview readiness across multiple dimensions and provides personalized improvement plans—all in under 2 minutes.
 
+**[🌐 Live Demo](https://careerforge-ai-fd30.onrender.com)** | **[📽️ Watch Video](https://drive.google.com/file/d/1bTq-ZbQ2cy8EB7C71B6U66WIjwEOPu-B/view?usp=sharing)** | **[📖 GitHub](https://github.com/ReddyDhananjay/Careerforge-AI)**
+
 ---
 
 ## 📋 Table of Contents
@@ -205,9 +207,9 @@ Comprehensive dashboard with insights and improvement recommendations
 
 ---
 
-## 🎥 Demo Video
+## 🎥 Demo Video & Live App
 
-Watch the complete walkthrough of Careerforge-AI in action:
+**[🌐 Try Live Demo Now](https://careerforge-ai-fd30.onrender.com)** - No sign-up required!
 
 **[▶️ Watch Demo Video](https://drive.google.com/file/d/1bTq-ZbQ2cy8EB7C71B6U66WIjwEOPu-B/view?usp=sharing)**
 
