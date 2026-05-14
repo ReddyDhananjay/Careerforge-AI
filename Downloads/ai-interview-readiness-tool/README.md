@@ -10,7 +10,7 @@ An AI-powered interview preparation tool that evaluates candidates' interview re
 - [Tech Stack](#tech-stack)
 - [Interview Readiness Score](#interview-readiness-score-explanation)
 - [Setup Instructions](#setup-instructions)
-- [Screenshots](#screenshots)
+- [Screenshots](#screenshots-demo)
 - [Team](#team)
 
 ---
@@ -166,42 +166,42 @@ src/
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots & Demo
 
 ### Landing Page
 Home screen with value proposition and CTA
 
 ![Landing Page](./screenshots/01-landing.png)
 
-*"Stop failing interviews you could've aced" - AI-powered readiness assessment*
+*"Stop failing interviews you could've aced" - AI-powered readiness assessment in under 2 minutes*
 
-### Quiz Questions
-Adaptive questions tailored to role selection
+### Quiz Assessment
+Role-based questions tailored to your target position
 
-![Quiz Questions](./screenshots/02-quiz.png)
+![Quiz Assessment](./screenshots/02-quiz.png)
 
-*Real-time assessment with 17 questions across 5 dimensions*
+*Adaptive 17-question quiz across 5 evaluation dimensions with real-time timer*
 
-### Score Reveal
-Instant score calculation with readiness level
+### Role Selection
+Choose your target role (SWE, Data Scientist, PM, Designer, Analyst, Marketer)
 
-![Score Reveal](./screenshots/03-score-reveal.png)
+![Role Selection](./screenshots/03-role-selection.png)
 
-*14/100 - Early Stage (Example: Everyone starts here. A focused 30-day plan will change your trajectory)*
+*Personalized assessment based on your specific field*
 
-### Results Dashboard - Overview
-Comprehensive breakdown of interview readiness
+### Quiz Questions in Action
+Real-time assessment with diverse question types
 
-![Results Dashboard](./screenshots/04-results-dashboard.png)
+![Quiz Questions](./screenshots/04-quiz-question.png)
 
-*Skills Radar chart, category breakdown, and percentile ranking*
+*Multi-select and single-select questions across all 5 dimensions*
 
-### Results Dashboard - Detailed View
-Category scores and quick insights
+### Results & Analysis
+Comprehensive dashboard with insights and improvement recommendations
 
-![Results Detailed](./screenshots/05-results-detailed.png)
+![Results Dashboard](./screenshots/05-results.png)
 
-*Individual category scores with actionable improvement tips*
+*Overall readiness score, skills radar, category breakdown, and personalized roadmap*
 
 ---
 
